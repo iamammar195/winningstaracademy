@@ -142,7 +142,7 @@ export default function App() {
           <div className="relative">
             <div className="overflow-hidden rounded-2xl border shadow-xl">
               <img
-                src="https://images.unsplash.com/photo-1523050854058-8df90110c9f1?auto=format&fit=crop&w=1400&q=80"
+                src="/pic.png"
                 alt="Students on a university campus"
                 className="h-[420px] w-full object-cover"
               />
